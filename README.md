@@ -1,0 +1,1 @@
+# auto_mail_sender_script_PYTHON-miniproject
